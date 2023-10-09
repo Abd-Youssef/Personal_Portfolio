@@ -5,7 +5,9 @@
     --light: #FAFAFB;
     --dark: #12141D;
 }
-
+.text-justify {
+    text-align: justify;
+}
 .back-to-top {
     position: fixed;
     display: none;
